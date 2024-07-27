@@ -1,6 +1,8 @@
 import { BrowserRouter } from 'react-router-dom'
 
+
 import { About, Hero, Navbar, Projects, Contact } from './components'
+
 
 function App() {
 
